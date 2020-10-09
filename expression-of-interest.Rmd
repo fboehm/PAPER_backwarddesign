@@ -16,7 +16,9 @@ Bret M. Hanlon, University of Wisconsin-Madison, bmhanlon@wisc.edu
 
 ## Abstract
 
-We discuss data science curriculum design at the undergraduate level. We apply backward design principles and assessment practices to develop ideas for curricula, courses, and class activities for data science students. We illustrate our strategy with examples from data analysis of texts such as tweets and novels. 
+We discuss data science curriculum design at the undergraduate level. 
+We apply backward design principles and assessment practices to develop ideas for curricula, courses, and class activities for data science students. 
+We illustrate our strategy with examples from data analysis of texts such as tweets and novels. 
 
 
 
