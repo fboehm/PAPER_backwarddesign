@@ -2,6 +2,7 @@
 title: 'Multi-scale backward design for data science education' 
 date: "10/9/2020"
 output: pdf_document
+bibliography: jse.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -16,9 +17,21 @@ Bret M. Hanlon, University of Wisconsin-Madison, bmhanlon@wisc.edu
 
 ## Abstract
 
-We discuss data science curriculum design at the undergraduate level. 
-We apply backward design principles and assessment practices to develop ideas for curricula, courses, and class activities for data science students. 
-We illustrate our strategy with examples from data analysis of texts such as tweets and novels. 
+We propose to write a manuscript describing uses of backward design in data science education. 
+As scholarly interest in data science grows at universities and colleges, 
+more institutions are facing the need to create data science curricula for 
+their undergraduate students. 
+@wiggins2005understanding describe backward design principles and their application to teaching. 
+We envision data science curricula, individual classes, and class activities built from backward design ideas. 
+A central idea in backward design is the identification of specific learning objectives for the curriculum, course, or course activity. 
+For each detailed objective, the instructor lists evidence that would indicate that students had achieved the objective. 
+These become summative and formative assessments. 
+The course designer then develops materials to guide students toward the objectives. 
+Regular, informal feedback from students via formative assessments inform the instructor about student progress, while summative assessments measure achievement. 
+We illustrate these backward design principles with examples from our teaching of courses in statistics and data science and our experiences in undergraduate curriculum design. 
+
+## References
+
 
 
 
