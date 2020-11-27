@@ -1,5 +1,7 @@
-# Paper_SERJ-special-issue-2021
-Statistics Education Research Journal special issue submission
+# Paper_backwarddesign
+Statistics Education Research Journal special issue submission - proposal was rejected. 
+
+We'll write a backward design manuscript to submit elsewhere.
 
 
 # Links to class materials (Bret's grad school class)
