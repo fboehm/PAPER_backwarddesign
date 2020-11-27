@@ -1,0 +1,22 @@
+---
+title: "Multi-scale backward design for data science education"
+author: "Frederick J. Boehm and Bret M. Hanlon"
+date: "11/27/2020"
+output: html_document
+---
+
+## Backward design and teaching
+
+
+
+
+### Backward design for a data science curriculum
+
+### Backward design for a data science course
+
+### Backward design for a data science class activity
+
+
+
+
+
