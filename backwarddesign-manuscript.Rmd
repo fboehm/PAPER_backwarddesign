@@ -3,18 +3,45 @@ title: "Multi-scale backward design for data science education"
 author: "Frederick J. Boehm and Bret M. Hanlon"
 date: "11/27/2020"
 output: html_document
+bibliography: jse.bib
 ---
 
 ## Backward design and teaching
 
+@wiggins2005understanding described backward design and applied it to teaching.
+
+
+Active verbs in learning objectives
+Measurable learning objectives
+
+Measurable learning objectives and assessments
+
+Align assessments with learning objectives
+
+Design assessment tools/ activities
+
+grading rubrics
 
 
 
-### Backward design for a data science curriculum
 
-### Backward design for a data science course
 
-### Backward design for a data science class activity
+
+### Backward design for an undergraduate data science curriculum
+
+What are objectives for a curriculum? 
+
+-refer to GAISE report and related literature in Amer. Stat & JSE, etc.
+
+
+
+### Backward design for an introductory data science course
+
+- target students of Stat 324/ 371? 
+
+
+
+### Backward design for an introductory data science class activity
 
 
 
